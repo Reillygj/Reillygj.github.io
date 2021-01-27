@@ -8,6 +8,6 @@ description: Various Content
  - [Jupyter Notebook(ipynb)](Jupyter.ipynb)
 
 
-## Document REpository 
+## Document Repository 
 - [Document Repository](https://github.com/Reillygj/DocumentRepository)
 
