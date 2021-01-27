@@ -5,6 +5,6 @@ description:  This contains information for ongoing projects
 
 ![William & Mary MSBA](/Pics/WM.jpg)
 
-Content for my refernce page is found here:
+### Content for my refernce page is found here: ### 
 
  -  [Jupyter Links](/Project_Reference/index.md)
