@@ -9,5 +9,5 @@ description: Various Content
 
 
 ## Document Repository 
-- [Document Repository] (https://github.com/Reillygj/DocumentRepository)
+- [Document Repository](https://github.com/Reillygj/DocumentRepository)
 
