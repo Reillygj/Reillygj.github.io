@@ -4,4 +4,4 @@ description:  This contains information for ongoing projects
 
 Content for my refernce page is found here:
 
- -  [Jupyter1](/ProjectReference/index.md)
+ -  [Jupyter1](/Project Reference/index.md)
