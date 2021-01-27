@@ -9,5 +9,4 @@ description:  This contains information for ongoing projects
 
  -  [Documents and Links ](/Project_Reference/index.md)
 
-## Document Repository 
-- [Document Repository](https://github.com/Reillygj/DocumentRepository)
+
