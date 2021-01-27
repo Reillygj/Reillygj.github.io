@@ -1,6 +1,6 @@
 ---
-title: Project Page
-description: This contains information for ongoing projects
+title:  Project Page
+description:  This contains information for ongoing projects
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
