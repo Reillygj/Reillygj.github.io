@@ -9,6 +9,6 @@ description: Various Content
 
 ## Document Repository 
 - [Document Repository](https://github.com/Reillygj/DocumentRepository)
-- [Click Here to Return to the Main Page] (https://reillygj.github.io/)
+- [Click Here to Return to the Main Page](https://reillygj.github.io/)
 
 
